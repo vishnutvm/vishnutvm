@@ -34,6 +34,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png?f=avif&w=128" alt="firebase" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="figma" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png?f=avif&w=128" alt="redux" width="40" height="40"/> </a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.jarmany.com/wp-content/uploads/2023/02/GCP-icon.png?f=avif&w=128" alt="gcp" width="40" height="40"/> </a>
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnutvm&show_icons=true&locale=en&layout=compact" alt="vishnutvm" /></p>
