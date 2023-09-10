@@ -29,7 +29,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png?f=avif&w=128" alt="html" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/625/531/png-transparent-material-ui-hd-logo-thumbnail.png" alt="mui" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://s3-ap-south-1.amazonaws.com/trt-blog-ghost/2023/01/MaterialUi-2.png" alt="mui" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png?f=avif&w=128" alt="firebase" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="figma" width="40" height="40"/> </a>
