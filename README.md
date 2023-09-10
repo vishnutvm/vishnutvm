@@ -25,6 +25,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png?f=avif&w=128" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png?f=avif&w=128" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" alt="react" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://assets.stickpng.com/images/62a74f85223343fbc2207d05.png" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png" alt="react" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png?f=avif&w=128" alt="git" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png?f=avif&w=128" alt="html" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" width="40" height="40"/> </a>
