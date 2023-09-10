@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Technologies**
 
-- 👨‍💻 All of my projects are available at [vishnu.cf](https://www.vishnu.cf)
+- 👨‍💻 All of my projects are available at [vishnu.cf](https://vishnutvm.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**
 
