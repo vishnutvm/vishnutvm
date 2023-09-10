@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQHb6ztXEx3gAg/profile-displaybackgroundimage-shrink_350_1400/0/1662229602302?e=1680739200&v=beta&t=TKL7wCqROIAUwrsCp8wSU3iy4ojtNvQ9Ve916l37Esc)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">{Tech enthusiast|Web developer | Student | Mallu}</h3>
 
